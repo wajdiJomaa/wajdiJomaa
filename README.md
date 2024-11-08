@@ -19,7 +19,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <div align="center">
-  <img src="/Twitter.svg" width="100">
-  <img src="/Linkedin.svg" width="100">
-  <img src="/Gmail-Dark.svg" width="100">
+  <a href=""><img src="/Twitter.svg" width="50"></a>
+  <a href="https://www.linkedin.com/in/wajdi-jomaa/"><img src="/LinkedIn.svg" width="50"></a>
+  <a href=""><img src="/Gmail-Dark.svg" width="50"></a>
 </div>
