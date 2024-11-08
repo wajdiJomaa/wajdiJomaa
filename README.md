@@ -19,8 +19,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <div align="center">
-  <h1>Contact me</h1>
-  <img src="/Twitter.svg">
-  <img src="/LinkedIin.svg">
-  <img src="/Gmail-Dark.svg">
+  <img src="/Twitter.svg" width="100">
+  <img src="/Linkedin.svg" width="100">
+  <img src="/Gmail-Dark.svg" width="100">
 </div>
