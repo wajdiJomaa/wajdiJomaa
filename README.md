@@ -1,4 +1,5 @@
 # Hello I'm Wajdi Jomaa
+👋 I'm Wajdi, a junior full-stack developer with a passion for creating efficient and scalable web applications.
 
 <div align="center">
   <img src="/metrics.classic.svg">
