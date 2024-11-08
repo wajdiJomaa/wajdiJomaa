@@ -17,3 +17,10 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<div align="center">
+  <h1>Contact me</h1>
+  <img src="/Twitter.svg">
+  <img src="/LinkedIin.svg">
+  <img src="/Gmail-Dark.svg">
+</div>
